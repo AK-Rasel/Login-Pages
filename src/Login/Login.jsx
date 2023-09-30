@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Login = () => {
     return (
         <div className="hero min-h-screen bg-base-200">
-            <div className="hero-content flex-col lg:flex-row-reverse">
+            <div className="hero-content flex-col ">
                 <div className="text-center lg:text-left mb-10">
                     <h1 className="text-5xl font-bold">Login now!</h1>
                 </div>
